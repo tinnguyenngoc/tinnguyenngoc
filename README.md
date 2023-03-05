@@ -11,8 +11,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tinnguyenngoc&theme=city_light&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tinnguyenngoc&theme=city_light&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?quote=%22I%20like%20food%22)
+### ✍️A Quote
+![](https://quotes-github-readme.vercel.app/api?quote=He%20said%2C%20%22One%20day%2C%20you%27ll%20leave%20this%20world%20behind.%0ASo%20live%20a%20life%20you%20will%20remember%22)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tinnguyenngoc&icon=2&color=12)](https://visitcount.itsvg.in)
