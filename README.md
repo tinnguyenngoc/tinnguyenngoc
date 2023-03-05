@@ -1,6 +1,6 @@
 
 ## 🌐Socials
-![](https://dcbadge.vercel.app/api/shield/804379787056775188)
+![](https://dcbadge.vercel.app/api/shield/804379787056775188?style=flat-square)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ngoctin1) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/imlm2512) 
 
 
